@@ -1,1 +1,1 @@
-Hello from the CONFLICT branch!
+Hello from the main branch!
